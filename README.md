@@ -1,0 +1,3 @@
+# personal
+
+collection of personal items. Dotfiles, lists, etc...
