@@ -1,0 +1,23 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/mbodge/shortvid.git" />
+          <option name="userName" value="teacurran" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/tmngo/astral_tmngo_web.git" />
+          <option name="userName" value="teacurran" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="teacurran" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="PasswordSafe">
+    <option name="PATH_TO_GIT" value="git" />
+  </component>
+</application>

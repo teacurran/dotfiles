@@ -1,6 +1,15 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="b" value="0" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="INSERT_SCRIPTLET_END_ON_ENTER" value="false" />
+    <option name="SMART_END_ACTION" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />

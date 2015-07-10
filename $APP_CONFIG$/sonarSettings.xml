@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://sonar.sintl.org/" />
+          <option name="name" value="sonar.sintl.org" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="admin" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

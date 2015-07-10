@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="JBossExtensions">
     <entry type="app" extension="ear" />
@@ -25,3 +26,4 @@
     <entry type="ejb" extension="esb" />
   </component>
 </application>
+
