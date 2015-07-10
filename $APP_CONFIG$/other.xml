@@ -1,0 +1,383 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Inspections</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="teacurran" />
+    <option name="ITN_PASSWORD_CRYPT" value="ZTJ0NGg1" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:jboss:cli:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
+    <resource url="urn:jboss:domain:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_0.xsd" />
+    <resource url="urn:jboss:domain:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_1.xsd" />
+    <resource url="urn:jboss:domain:1.2" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_2.xsd" />
+    <resource url="urn:jboss:domain:cmp:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-cmp_1_0.xsd" />
+    <resource url="urn:jboss:domain:configadmin:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-configadmin_1_0.xsd" />
+    <resource url="urn:jboss:domain:datasources:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-datasources_1_0.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-deployment-scanner_1_0.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-deployment-scanner_1_1.xsd" />
+    <resource url="urn:jboss:domain:ee:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-ee_1_0.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_0.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_1.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.2" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_2.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_0.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_1.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.2" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_2.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jacorb_1_0.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jacorb_1_1.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxr_1_0.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxr_1_1.xsd" />
+    <resource url="urn:jboss:domain:jaxrs:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxrs_1_0.xsd" />
+    <resource url="urn:jboss:domain:jca:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jca_1_0.xsd" />
+    <resource url="urn:jboss:domain:jca:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jca_1_1.xsd" />
+    <resource url="urn:jboss:domain:jdr:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jdr_1_0.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jgroups_1_0.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jgroups_1_1.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jmx_1_0.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jmx_1_1.xsd" />
+    <resource url="urn:jboss:domain:jpa:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jpa_1_0.xsd" />
+    <resource url="urn:jboss:domain:jsr77:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-jsr77_1_0.xsd" />
+    <resource url="urn:jboss:domain:logging:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-logging_1_0.xsd" />
+    <resource url="urn:jboss:domain:logging:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-logging_1_1.xsd" />
+    <resource url="urn:jboss:domain:mail:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-mail_1_0.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging_1_0.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging_1_1.xsd" />
+    <resource url="urn:jboss:domain:modcluster:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-mod-cluster_1_0.xsd" />
+    <resource url="urn:jboss:domain:naming:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-naming_1_0.xsd" />
+    <resource url="urn:jboss:domain:naming:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-naming_1_1.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_0.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_1.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.2" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_2.xsd" />
+    <resource url="urn:jboss:domain:pojo:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-pojo_1_0.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-remoting_1_0.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-remoting_1_1.xsd" />
+    <resource url="urn:jboss:domain:resource-adapters:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-resource-adapters_1_0.xsd" />
+    <resource url="urn:jboss:domain:sar:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-sar_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-security_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-security_1_1.xsd" />
+    <resource url="urn:jboss:domain:threads:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-threads_1_0.xsd" />
+    <resource url="urn:jboss:domain:threads:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-threads_1_1.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-txn_1_0.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-txn_1_1.xsd" />
+    <resource url="urn:jboss:domain:web:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-web_1_0.xsd" />
+    <resource url="urn:jboss:domain:web:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-web_1_1.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-webservices_1_0.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-webservices_1_1.xsd" />
+    <resource url="urn:jboss:domain:weld:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-weld_1_0.xsd" />
+    <resource url="urn:jboss:domain:xts:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-xts.xsd" />
+    <resource url="urn:jboss:ejb-client:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-ejb-client_1_0.xsd" />
+    <resource url="urn:jboss:ejb-client:1.1" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-ejb-client_1_1.xsd" />
+    <resource url="urn:jboss:jbossws-jaxws-config:4.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jbossws-jaxws-config_4_0.xsd" />
+    <resource url="urn:jboss:messaging-deployment:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging-deployment_1_0.xsd" />
+    <resource url="urn:jboss:pojo:7.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-pojo_7_0.xsd" />
+    <resource url="urn:jboss:service:7.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-service_7_0.xsd" />
+  </component>
+  <component name="IntelliJadConfigComponent">
+    <config>
+      <a type="boolean">false</a>
+      <af type="boolean">false</af>
+      <always-exclude-recursively type="boolean">false</always-exclude-recursively>
+      <b type="boolean">false</b>
+      <cleanup-source-roots type="boolean">true</cleanup-source-roots>
+      <clear type="boolean">false</clear>
+      <clear-and-close-console-on-success type="boolean">false</clear-and-close-console-on-success>
+      <create-output-directory type="boolean">false</create-output-directory>
+      <d type="string" />
+      <dead type="boolean">false</dead>
+      <decompile-on-navigation type="string">Always</decompile-on-navigation>
+      <decompile-to-memory type="boolean">true</decompile-to-memory>
+      <dis type="boolean">false</dis>
+      <exclusion-table-model type="table-model" model-class="net.stevechaloner.intellijad.config.ExclusionTableModel" content-types="string,boolean,boolean" />
+      <f type="boolean">false</f>
+      <ff type="boolean">false</ff>
+      <i type="boolean">false</i>
+      <indentation type="integer">4</indentation>
+      <jad-path type="string">/java/jad158g.mac.intel/jad</jad-path>
+      <l type="integer">64</l>
+      <lnc type="boolean">false</lnc>
+      <lradix type="integer">10</lradix>
+      <nl type="boolean">false</nl>
+      <nocast type="boolean">false</nocast>
+      <noclass type="boolean">false</noclass>
+      <nocode type="boolean">false</nocode>
+      <noconv type="boolean">false</noconv>
+      <noctor type="boolean">false</noctor>
+      <nodos type="boolean">false</nodos>
+      <nofd type="boolean">false</nofd>
+      <noinner type="boolean">false</noinner>
+      <nolvt type="boolean">false</nolvt>
+      <nonlb type="boolean">false</nonlb>
+      <o type="boolean">false</o>
+      <pa type="string" />
+      <pc type="string">_cls</pc>
+      <pe type="string">_ex</pe>
+      <pf type="string">_fld</pf>
+      <pl type="string">_lcl</pl>
+      <pm type="string">_mth</pm>
+      <pp type="string">_prm</pp>
+      <pv type="integer">3</pv>
+      <r type="boolean">false</r>
+      <radix type="integer">10</radix>
+      <read-only type="boolean">false</read-only>
+      <reformat-style type="string">Preferred-Style</reformat-style>
+      <s type="string">java</s>
+      <safe type="boolean">false</safe>
+      <sort type="boolean">false</sort>
+      <space type="boolean">false</space>
+      <stat type="boolean">false</stat>
+      <t type="boolean">false</t>
+      <use-project-specific-settings type="boolean">false</use-project-specific-settings>
+      <v type="boolean">false</v>
+    </config>
+  </component>
+  <component name="JetConnect">
+    <setting name="checkPeriod" value="0" />
+  </component>
+  <component name="LocalHistoryConfiguration">
+    <option name="SHOW_CHANGES_ONLY" value="true" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="3" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="ENTITY_SUFFIX" value="3" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:file:///Users/tea/dev/TheGoodness/site/resources/messages" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/MSLifeLinesDashboard/branches/B1_8/sandbox.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/TheGoodness/site/resources/messages_en.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/MSLifeLinesDashboard/branches/B1_8/development.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/new.projects/mslifelines.com/trunk/src/java/settings.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/MSLifeLinesDashboard/branches/B1_8/stage.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/new.projects/mslifelines.com/trunk/local.build.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/new.projects/mslifelines.com/trunk/mslifelines/conf/development/classes/settings-configured.properties" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/tea/dev/IdeaGraphics/pentair/pentairprice/web/resources/messages" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/MSLifeLinesDashboard/branches/B1_8/production.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/Cramer/Serono/new.projects/mslifelines.com/trunk/rebif/conf/development/classes/settings-configured.properties" separator="\u002e" />
+  </component>
+  <component name="Rearranger">
+    <Rearranger KeepGettersSettersTogether="false" KeepGettersSettersWithProperty="false" KeepOverloadedMethodsTogether="false" ConfirmBeforeRearranging="false" RearrangeInnerClasses="false" globalCommentPattern="" overloadedOrder="0" ShowParameterTypes="true" ShowParameterNames="false" ShowFields="true" ShowTypeAfterMethod="true" ShowRules="false" ShowMatchedRules="false" ShowComments="false" RemoveBlanksInsideCodeBlocks="false">
+      <Items />
+      <Classes />
+      <DefaultGetterSetterDefinition>
+        <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+      </DefaultGetterSetterDefinition>
+      <RelatedMethods moveExtractedMethods="false" belowFirstCaller="true" depthFirstOrdering="true" ordering="0" nonPrivateTreatment="2" commentType="0" fillString="" useProjectWidthForFill="true" fillWidth="0">
+        <PrecedingComment>
+          <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+        </PrecedingComment>
+        <TrailingComment>
+          <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+        </TrailingComment>
+      </RelatedMethods>
+      <AfterClassLBrace Force="false" nBlankLines="0" />
+      <AfterClassRBrace Force="false" nBlankLines="0" />
+      <BeforeClassRBrace Force="false" nBlankLines="0" />
+      <BeforeMethodLBrace Force="false" nBlankLines="0" />
+      <AfterMethodLBrace Force="false" nBlankLines="0" />
+      <AfterMethodRBrace Force="false" nBlankLines="0" />
+      <BeforeMethodRBrace Force="false" nBlankLines="0" />
+      <NewlinesAtEOF Force="false" nBlankLines="0" />
+    </Rearranger>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="LAST_TEMPLATE" value="Static Web/Web Module" />
+  </component>
+  <component name="Struts Assistant">
+    <option name="autoscrollToSource" value="false" />
+    <option name="autoscrollFromSource" value="false" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://svn.approachingpi.com/svn/ApproachingPi/distroy/store/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/ApproachingPi/distroy/store/trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.approachingpi.com/svn/IdeaGraphics/MWJ/www">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/IdeaGraphics/MWJ/www" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.approachingpi.com/svn/IdeaGraphics/linemaster/v2">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/IdeaGraphics/linemaster/v2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.approachingpi.com/svn/IdeaGraphics/pentair/pentairprice/data">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/IdeaGraphics/pentair/pentairprice/data" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.approachingpi.com/svn/IdeaGraphics/pentair/pentairprice/web">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/IdeaGraphics/pentair/pentairprice/web" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://vcs.buydomains.com/repos/parking/tags/staging">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/NameMedia/parking-staging" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://vcs.buydomains.com/repos/parking/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/NameMedia/parking-trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://vcs.buydomains.com/repos/sitesense-services/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/NameMedia/sitesense-services" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://source.cramerinteractive.com/svn/Serono/MSLifeLinesDashboard/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/Cramer/Serono/MSLifeLinesDashboard/trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://source.cramerinteractive.com/svn/Serono/new.projects/mslifelines.com/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/Cramer/Serono/new.projects/mslifelines.com/trunk" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true" />
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>
