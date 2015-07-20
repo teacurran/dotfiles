@@ -84,6 +84,7 @@
     <resource url="http://ajax4jsf.org/cdk/template" location="" />
     <resource url="http://scholastic.com/intl/litpro/exchange" location="$USER_HOME$/dev/Scholastic/code/intl-litpro/assessment-exchange/src/main/resources/schema/assesment-import.xsd" />
     <resource url="http://www.infinispan.org/schemas/infinispan-config-6.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/54b94aa8_infinispan-config-6.0.xsd" />
+    <resource url="http://www.infinispan.org/schemas/infinispan-config-7.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/899f85e9_infinispan-config-7.0.xsd" />
     <resource url="urn:jboss:1.0" location="/java/wildfly-9.0.0.Final/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="/java/jboss-as-7.1.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
     <resource url="urn:jboss:cli:1.1" location="/java/wildfly-9.0.0.Final/docs/schema/jboss-as-cli_1_1.xsd" />
