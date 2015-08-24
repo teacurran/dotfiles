@@ -11,13 +11,13 @@
       <driver id="derby.embedded" name="Embedded">
         <option name="auto-sync" value="true" />
         <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
         </library>
         <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derbyclient-10.10.1.1.jar</url>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
         </library>
         <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
         </library>
       </driver>
       <driver id="derby.remote" name="Remote">
@@ -30,6 +30,15 @@
         </library>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
         </library>
       </driver>
     </driver>
