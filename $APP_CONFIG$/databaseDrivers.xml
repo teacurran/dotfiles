@@ -51,10 +51,10 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
       <library>
-        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/mysql-connector-license.txt</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
       </library>
       <library>
-        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/mysql-connector-java-5.1.29-bin.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
       </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
