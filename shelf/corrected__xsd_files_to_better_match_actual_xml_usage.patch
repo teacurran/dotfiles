@@ -1,0 +1,76 @@
+Index: assessment-exchange/bin/src/main/resources/schema/src-quiz.xsd
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- assessment-exchange/bin/src/main/resources/schema/src-quiz.xsd	(revision 79efae0b1b14736d888d390efc7127f4a83324dc)
++++ assessment-exchange/bin/src/main/resources/schema/src-quiz.xsd	(revision )
+@@ -16,7 +16,7 @@
+ 			</xs:appinfo>
+ 		</xs:annotation>
+ 
+-		<xs:all>
++		<xs:choice maxOccurs="unbounded">
+ 			<xs:element name="id" minOccurs="0">
+ 				<xs:annotation>
+ 					<xs:documentation xml:lang="en">Quiz Id</xs:documentation>
+@@ -92,7 +92,7 @@
+ 				</xs:annotation>
+ 			</xs:element>
+ 			
+-		</xs:all>
++		</xs:choice>
+ 
+ 	</xs:complexType>
+ 
+Index: assessment-exchange/src/main/resources/schema/application.xsd
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- assessment-exchange/src/main/resources/schema/application.xsd	(revision )
++++ assessment-exchange/src/main/resources/schema/application.xsd	(revision )
+@@ -0,0 +1,43 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" jxb:version="2.0"
++			xmlns="http://scholastic.com/intl/litpro/exchange"
++			targetNamespace="http://scholastic.com/intl/litpro/exchange" elementFormDefault="qualified">
++
++	<xs:include schemaLocation="enums.xsd"/>
++	<xs:include schemaLocation="book-category-variation.xsd"/>
++
++	<xs:element name="application" type="application-type"/>
++
++	<xs:complexType name="application-type">
++		<xs:annotation>
++			<xs:documentation xml:lang="en">A digital application</xs:documentation>
++			<xs:appinfo>
++				<jxb:class name="applicationType" />
++			</xs:appinfo>
++		</xs:annotation>
++
++		<xs:attribute name="code" use="required">
++			<xs:annotation>
++				<xs:documentation xml:lang="en">Application Product Code</xs:documentation>
++			</xs:annotation>
++			<xs:simpleType>
++				<xs:restriction base="xs:string">
++					<xs:pattern value=".{1,200}"/>
++				</xs:restriction>
++			</xs:simpleType>
++		</xs:attribute>
++
++		<xs:attribute name="name" use="optional">
++			<xs:annotation>
++				<xs:documentation xml:lang="en">Application Name</xs:documentation>
++			</xs:annotation>
++			<xs:simpleType>
++				<xs:restriction base="xs:string">
++					<xs:pattern value=".{1,200}"/>
++				</xs:restriction>
++			</xs:simpleType>
++		</xs:attribute>
++
++	</xs:complexType>
++
++</xs:schema>
