@@ -4,12 +4,12 @@
       <profile-state>
         <expanded-state>
           <State>
-            <id>Inspections</id>
+            <id />
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Inspections</id>
+            <id>Android</id>
           </State>
         </selected-state>
       </profile-state>
