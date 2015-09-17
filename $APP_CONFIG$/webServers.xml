@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4cbfb136-e1b1-42fa-b935-ea32087cc47e" name="scitechconnect" url="http://scitechconnect-osx.dev-server-host.com/">
+        <fileTransfer mountedRoot="$USER_HOME$/dev/IdeaGraphics/elsevier/www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
