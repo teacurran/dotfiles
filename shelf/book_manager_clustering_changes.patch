@@ -1,0 +1,98 @@
+Index: lexileframework/src/main/webapp/WEB-INF/view/templates/manager.xhtml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lexileframework/src/main/webapp/WEB-INF/view/templates/manager.xhtml	(revision 069c5e74b4c935375f4128a063c32a80122eeeef)
++++ lexileframework/src/main/webapp/WEB-INF/view/templates/manager.xhtml	(revision )
+@@ -47,7 +47,7 @@
+ 
+ 	<ui:include src="/WEB-INF/view/fragments/manager_footer.xhtml"/>
+ 
+-	<p:ajaxStatus onstart="statusDialog.show();" onsuccess="statusDialog.hide();"/>
++	<p:ajaxStatus onstart="PF('statusDialog').show();" onsuccess="PF('statusDialog').hide();"/>
+ 	<p:dialog modal="false" widgetVar="statusDialog" showHeader="false"
+ 			draggable="false" closable="true" resizable="false"
+ 			width="300">
+Index: lexileframework/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lexileframework/pom.xml	(revision 069c5e74b4c935375f4128a063c32a80122eeeef)
++++ lexileframework/pom.xml	(revision )
+@@ -1042,7 +1042,13 @@
+ 		<dependency>
+ 			<groupId>org.primefaces</groupId>
+ 			<artifactId>primefaces</artifactId>
+-			<version>3.5</version>
++			<version>5.0</version>
++			<scope>compile</scope>
++		</dependency>
++		<dependency>
++			<groupId>org.primefaces.themes</groupId>
++			<artifactId>bootstrap</artifactId>
++			<version>1.0.10</version>
+ 			<scope>compile</scope>
+ 		</dependency>
+ 		<dependency>
+Index: lexileframework/src/main/webapp/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lexileframework/src/main/webapp/WEB-INF/web.xml	(revision 069c5e74b4c935375f4128a063c32a80122eeeef)
++++ lexileframework/src/main/webapp/WEB-INF/web.xml	(revision )
+@@ -23,6 +23,11 @@
+ 	</context-param>
+ 
+ 	<context-param>
++		<param-name>javax.faces.FACELETS_SKIP_COMMENTS</param-name>
++		<param-value>true</param-value>
++	</context-param>
++
++	<context-param>
+ 		<param-name>javax.faces.FACELETS_LIBRARIES</param-name>
+ 		<param-value>/WEB-INF/view/functions.taglib.xml</param-value>
+ 	</context-param>
+Index: lexileframework/src/main/java/com/scholastic/lf/services/manager/BookManager.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lexileframework/src/main/java/com/scholastic/lf/services/manager/BookManager.java	(revision 069c5e74b4c935375f4128a063c32a80122eeeef)
++++ lexileframework/src/main/java/com/scholastic/lf/services/manager/BookManager.java	(revision )
+@@ -95,26 +95,26 @@
+ 	FullTextIndexerService fullTextIndexerService;
+ 
+ 	@Resource(lookup = "java:/JmsXA")
+-	private ConnectionFactory connectionFactory;
++	private transient ConnectionFactory connectionFactory;
+ 
+ 	@Resource(lookup = "java:/queue/ImportBook")
+-	private Queue importBookQueue;
++	private transient Queue importBookQueue;
+ 
+ 	@Inject
+ 	private CalcTitleService calcTitleService;
+-	
++
+ 	@Inject
+-	BookRepository bookRepository;
++	transient BookRepository bookRepository;
+ 
+ 	@Inject
+-	BookVersionRepository bookVersionRepository;
++	transient BookVersionRepository bookVersionRepository;
+ 
+ 	@Inject
+-	SrcQuizRepository srcQuizRepository;
++	transient SrcQuizRepository srcQuizRepository;
+ 
+ 	private String status;
+ 
+-	Connection importQueueConnection = null;
++	transient Connection importQueueConnection = null;
+ 
+ 	List<Book> results;
+ 
