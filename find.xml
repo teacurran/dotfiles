@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'litpro-parent'" />
     <option name="defaultScopeName" value="Project 'litpro-parent'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'litpro-parent'" />
     <recentFileMasks>
       <mask>*.properties</mask>
