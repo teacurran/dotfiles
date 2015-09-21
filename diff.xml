@@ -28,10 +28,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
