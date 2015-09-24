@@ -2,7 +2,7 @@
   <component name="LocalDatabaseDriverManager">
     <driver id="db2.base" name="DB2" dialect="DB2">
       <option name="auto-sync" value="false" />
-      <driver id="db2" name="DB2 LUW" dialect="DB2">
+      <driver id="db2" name="DB2 LUW">
         <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
       </driver>
       <driver id="db2.jtopen" name="JTOpen (DB2 iSeries)" dialect="DB2" />
@@ -10,36 +10,9 @@
     <driver id="derby" name="Derby" dialect="Derby">
       <driver id="derby.embedded" name="Embedded">
         <option name="auto-sync" value="true" />
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
-        </library>
       </driver>
       <driver id="derby.remote" name="Remote">
         <option name="auto-sync" value="true" />
-        <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
-        </library>
-        <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derbyclient-10.10.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
-        </library>
       </driver>
     </driver>
     <driver id="sqlserver" name="SQL Server" dialect="TSQL">
@@ -59,12 +32,6 @@
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
-      </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <option name="auto-sync" value="false" />
@@ -76,30 +43,12 @@
     <driver id="hsqldb" name="HSQLDB" dialect="HSQLDB">
       <driver id="hsqldb.embedded" name="Embedded">
         <option name="auto-sync" value="true" />
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
-        </library>
       </driver>
       <driver id="hsqldb.remote" name="Remote">
         <option name="auto-sync" value="true" />
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
-        </library>
       </driver>
       <driver id="hsqldb.in-memory" name="In-memory">
         <option name="auto-sync" value="true" />
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
-        </library>
       </driver>
     </driver>
     <driver id="h2" name="H2" dialect="H2">
