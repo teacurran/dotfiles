@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="M2_HOME" value="/java/apache-maven-3.2.3" />
     <macro name="MAVEN_REPOSITORY" value="/Users/tea/.m2/repository" />
   </component>
 </application>
