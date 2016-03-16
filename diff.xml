@@ -28,7 +28,14 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
