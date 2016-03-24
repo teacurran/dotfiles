@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject>
+    <defaultProject version="4">
       <component name="CompilerConfiguration">
         <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
@@ -20,15 +20,15 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
             <option name="mavenHome" value="Bundled (Maven 3)" />
           </MavenGeneralSettings>
         </option>
+      </component>
+      <component name="NamedScopeManager">
+        <order />
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -39,6 +39,9 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
@@ -57,10 +60,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
