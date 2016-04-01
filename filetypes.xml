@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="config" type="EB Extensions config" />
       <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
