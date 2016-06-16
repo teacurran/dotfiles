@@ -50,6 +50,10 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://ajax4jsf.org/cdk/template" location="" />
