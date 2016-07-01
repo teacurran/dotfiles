@@ -253,6 +253,9 @@
     <resource url="urn:jboss:wildfly:ejb-timers:1.0" location="/java/wildfly-9.0.0.Final/docs/schema/wildfly-ejb-timer_1_0.xsd" />
     <resource url="urn:jboss:xacml:2.0" location="/java/wildfly-9.0.0.Final/docs/schema/jbossxacml-2.0.xsd" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
       <TextAttributes />
