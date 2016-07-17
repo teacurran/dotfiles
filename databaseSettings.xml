@@ -1,13 +1,15 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="page-size" value="100" />
     <text-mode>
       <parameter-patterns>
-        <parameter-pattern value="?\d+" />
-        <parameter-pattern value=":(\w+)" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" />
-        <parameter-pattern value="$\{[^$\{\}]*\}" />
-        <parameter-pattern value="$\w+$" />
-        <parameter-pattern value="#(\w+)#" scope="XML" />
+        <parameter-pattern value="\?\d*" />
+        <parameter-pattern value="\:\w+" />
+        <parameter-pattern value="\@\w+" />
+        <parameter-pattern value="\%\w+" />
+        <parameter-pattern value="\$\{[^$\{\}]*\}" />
+        <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" />
+        <parameter-pattern value="\#\w+\#" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
