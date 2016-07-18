@@ -33,10 +33,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Merge">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
