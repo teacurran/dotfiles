@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="b" value="0" />
+    <option name="SMART_BACKSPACE" value="2" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="INSERT_SCRIPTLET_END_ON_ENTER" value="false" />
     <option name="SMART_END_ACTION" value="false" />
