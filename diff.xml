@@ -37,6 +37,9 @@
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
