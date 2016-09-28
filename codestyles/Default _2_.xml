@@ -1,7 +1,7 @@
 <code_scheme name="Default (2)">
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />

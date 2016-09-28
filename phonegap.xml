@@ -1,5 +1,5 @@
 <application>
   <component name="PhoneGapSettings">
-    <option name="executablePath" value="/usr/local/lib/node_modules/phonegap/bin/phonegap.js" />
+    <option name="executablePath" value="/usr/local/bin/phonegap" />
   </component>
 </application>
