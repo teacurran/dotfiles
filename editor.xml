@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
   <component name="InspectionProfileManager">
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="UNUSED ENTRY" />
