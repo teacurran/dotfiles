@@ -1,10 +1,11 @@
 <application>
   <component name="EditorSettings">
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="InspectionProfileManager">
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="UNUSED ENTRY" />
+      <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
       <item index="1" class="java.lang.String" itemvalue="SERVER PROBLEM" />
       <item index="2" class="java.lang.String" itemvalue="WEAK WARNING" />
       <item index="3" class="java.lang.String" itemvalue="INFO" />
