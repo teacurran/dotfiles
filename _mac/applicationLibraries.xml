@@ -5602,28 +5602,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sprockets-3.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="sprockets (v3.6.3, RVM: ruby-head) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.6.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.6.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.6.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.6.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="sprockets (v3.7.1, RVM: ruby-head) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.7.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-3.7.1/lib" />
-      </SOURCES>
-    </library>
     <library name="sprockets-rails (v3.0.4, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sprockets-rails-3.0.4/lib" />
@@ -5631,15 +5609,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sprockets-rails-3.0.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="sprockets-rails (v3.2.0, RVM: ruby-head) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-rails-3.2.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-head/gems/sprockets-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.11, RVM: ruby-2.2.4) [gem]">
