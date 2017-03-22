@@ -20,7 +20,4 @@
   <component name="PasswordSafe">
     <option name="PATH_TO_GIT" value="git" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev/ApproachingPi/approachingpi/www2017" />
-  </component>
 </application>
