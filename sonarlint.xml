@@ -1,15 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>df92df9adf99df9ddf92df99df9cdfccdfc9df9edf9cdf9adf9cdfcedf98df9edf92dfcfdf9ddf93dfc9df9cdfccdf9cdfccdfc9df9bdfcedf93df9cdf99df9edf9adf9fdf9ddf93df9cdf9edfcedf9d</token>
           <option name="hostUrl" value="http://sonar.sintl.org" />
+          <token>df92df9adf99df9ddf92df99df9cdfccdfc9df9edf9cdf9adf9cdfcedf98df9edf92dfcfdf9ddf93dfc9df9cdfccdf9cdfccdfc9df9bdfcedf93df9cdf99df9edf9adf9fdf9ddf93df9cdf9edfcedf9d</token>
           <option name="name" value="SINTL" />
         </SonarQubeServer>
         <SonarQubeServer>
-          <token>dfcbdf9bdfcedf98dfc9df9cdf93dfc9dfccdfcbdfccdf9fdf92df9bdfc9dfcfdf9edf9edf9adf9fdfcfdf9edf9edfcbdfcbdfccdfcbdfc9df92df99df9bdf9edf98dfc8dfc8df9bdfc8df9bdfcbdfcf</token>
           <option name="hostUrl" value="http://sonar.approachingpi.com" />
+          <token>dfcbdf9bdfcedf98dfc9df9cdf93dfc9dfccdfcbdfccdf9fdf92df9bdfc9dfcfdf9edf9edf9adf9fdfcfdf9edf9edfcbdfcbdfccdfcbdfc9df92df99df9bdf9edf98dfc8dfc8df9bdfc8df9bdfcbdfcf</token>
           <option name="name" value="APPI" />
         </SonarQubeServer>
       </list>
