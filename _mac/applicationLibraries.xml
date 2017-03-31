@@ -167,6 +167,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="administrate (v0.2.2@3aaa0a, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/administrate-3aaa0a583188/app" />
