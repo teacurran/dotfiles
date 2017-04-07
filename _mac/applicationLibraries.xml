@@ -3810,6 +3810,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-0.7.0/ports" />
       </SOURCES>
     </library>
+    <library name="tiny_tds (v1.0.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tiny_tds/1.0.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/ports" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tiny_tds/1.0.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tiny_tds-1.0.5/ports" />
+      </SOURCES>
+    </library>
     <library name="treetop (v1.6.8, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/treetop-1.6.8/bin" />
