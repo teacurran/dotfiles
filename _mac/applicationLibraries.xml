@@ -1327,6 +1327,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/colorize-0.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/colorize-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="commander (v4.4.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.0/bin" />
@@ -2743,6 +2752,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.2/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-2.99.3/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mime-types-3.1/lib" />
@@ -3373,6 +3395,21 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.18.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.3.1) [gem]">
