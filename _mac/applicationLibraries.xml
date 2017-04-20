@@ -2254,6 +2254,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.4.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/globalid-0.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/globalid-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="guard (v2.14.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/guard-2.14.0/bin" />
