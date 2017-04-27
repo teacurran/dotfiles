@@ -3307,6 +3307,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.5.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-activemodel-mocks (v1.0.3, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-activemodel-mocks-1.0.3/lib" />
@@ -4370,6 +4379,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/uniform_notifier-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="vcr (v3.0.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/vcr-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/vcr-3.0.3/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/vcr-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/vcr-3.0.3/features" />
+      </SOURCES>
+    </library>
     <library name="warden (v1.2.6, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/warden-1.2.6/lib" />
@@ -4390,6 +4410,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-1.24.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-1.24.6/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-1.24.6/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.0.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-3.0.1/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-3.0.1/minitest" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.3, RVM: ruby-2.3.1) [gem]">
