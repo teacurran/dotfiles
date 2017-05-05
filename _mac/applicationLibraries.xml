@@ -406,6 +406,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.0.13/lib" />
       </SOURCES>
     </library>
+    <library name="analytics-ruby (v2.2.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.7.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.1/bin" />
@@ -1196,6 +1207,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="commander (v4.4.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.0/lib" />
       </SOURCES>
     </library>
     <library name="commonjs (v0.2.7, RVM: ruby-2.3.1) [gem]">
