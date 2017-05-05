@@ -2097,6 +2097,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.8, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.7.8/site" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.7.8/site" />
+      </SOURCES>
+    </library>
     <library name="hiredis (v0.6.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hiredis/0.6.1" />
@@ -4086,6 +4097,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-rails-3.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.4.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-rails-3.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-rails-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.4.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-rails-3.4.2/lib" />
@@ -4520,6 +4540,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.0.1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.0.1/doc_config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.0.1/.hound_config" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v3.1.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/doc_config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/.hound_config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/doc_config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/shoulda-matchers-3.1.0/.hound_config" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v3.1.1, RVM: ruby-2.3.1) [gem]">
@@ -4985,6 +5024,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.3/example" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.6.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.6.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.6.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thin-1.6.4/example" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.3.1) [gem]">
