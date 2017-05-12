@@ -24,5 +24,6 @@
     <option name="automaticallyInsertClosingTag" value="false" />
     <option name="automaticallyInsertRequiredAttributes" value="false" />
     <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
