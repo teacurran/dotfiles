@@ -397,6 +397,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-62225578f02f/config" />
       </SOURCES>
     </library>
+    <library name="aliso (v0.0.1@e77df5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-e77df5102bf0/config" />
+      </SOURCES>
+    </library>
     <library name="analytics-ruby (v2.0.13, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.0.13/lib" />
@@ -1168,6 +1187,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/climate_control-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="climate_control (v0.2.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/climate_control-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/climate_control-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="cocaine (v0.5.8, RVM: ruby-2.3.1) [gem]">
@@ -3516,6 +3544,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.6/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.6/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.7, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.7/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.0.rc1, RVM: ruby-2.3.1) [gem]">
