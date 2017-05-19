@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,17 +15,17 @@
       <mask>*.mxml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.r</mask>
       <mask>*.jsk</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
       <mask>.</mask>
       <mask>.r</mask>
       <mask>.rb</mask>
-      <mask>*.rb</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
