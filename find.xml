@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,13 +21,13 @@
       <mask>.rb</mask>
       <mask>*.jsx</mask>
       <mask>*</mask>
-      <mask>*.g</mask>
-      <mask>*.go</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.g</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
