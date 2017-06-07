@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -15,18 +17,22 @@
       <mask>*.jsk</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
-      <mask>.</mask>
       <mask>.r</mask>
       <mask>.rb</mask>
-      <mask>*.jsx</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.go</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.js</mask>
+      <mask>(</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.js</mask>
+      <mask>.jsx</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
