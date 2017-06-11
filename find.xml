@@ -15,18 +15,22 @@
       <mask>*.jsk</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
-      <mask>.</mask>
       <mask>.r</mask>
       <mask>.rb</mask>
+      <mask>*</mask>
       <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.go</mask>
       <mask>*.js</mask>
+      <mask>(</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.js</mask>
+      <mask>.jsx</mask>
       <mask>*.jsx</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.go</mask>
-      <mask>*.g</mask>
     </recentFileMasks>
   </component>
 </application>
