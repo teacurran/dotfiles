@@ -13,4 +13,7 @@
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
+  <component name="Go">
+    <option name="formatOnSave" value="GOFMT" />
+  </component>
 </application>
