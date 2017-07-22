@@ -3400,6 +3400,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="mysql (v2.9.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql/2.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql/2.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql-2.9.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.6, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.6/ext" />
@@ -3411,6 +3428,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.6/support" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.4.8, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.8/support" />
       </SOURCES>
     </library>
     <library name="neat (v1.8.0, RVM: ruby-2.3.1) [gem]">
