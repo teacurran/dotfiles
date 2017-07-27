@@ -9,9 +9,10 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" />
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true">
