@@ -94,7 +94,7 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="java.sql.Driver" name="NetSuite" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
+    <driver id="java.sql.Driver" name="NetSuite" dialect="TSQL" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="true" />
