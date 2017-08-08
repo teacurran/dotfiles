@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,12 +15,10 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.jsk</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
       <mask>.r</mask>
       <mask>.rb</mask>
-      <mask>*</mask>
       <mask>(</mask>
       <mask>.</mask>
       <mask>.j</mask>
@@ -28,13 +26,15 @@
       <mask>.jsx</mask>
       <mask>*.g</mask>
       <mask>*.go</mask>
-      <mask>*.jsx</mask>
       <mask>*.js\</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsk</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
