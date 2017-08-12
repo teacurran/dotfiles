@@ -111,6 +111,14 @@
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
     </driver>
+    <driver id="126d8563-5140-4d53-b2d2-a96b8dbdb4e7" name="OpenEdge" dialect="DB2" driver-class="com.ddtek.jdbc.openedge.OpenEdgeDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
+      </library>
+    </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true">
         <library>
