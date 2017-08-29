@@ -3552,6 +3552,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/listen-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="little-plugger (v1.1.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="logging (v2.1.0.48, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/logging-2.2.2/lib" />
