@@ -1,20 +1,19 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="h2.unified">
+    <driver id="h2.unified" name="H2" dialect="H2">
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="azure.ms">
-      <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="oracle">
+    <driver id="oracle" name="Oracle" dialect="Oracle">
       <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
-      <option name="send-app-info" value="true" />
     </driver>
-    <driver id="derby.embedded">
+    <driver id="azure.ms" name="">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <artifact name="Apache Derby" use="true">
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
@@ -28,15 +27,15 @@
       </artifact>
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.jtds">
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="sqlserver.jtds">
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="hsqldb.local">
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
       <artifact name="HSQLDB" use="true">
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
@@ -47,7 +46,7 @@
       </artifact>
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.remote">
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
       <artifact name="Apache Derby" use="true">
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
@@ -70,56 +69,63 @@
         <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
       </library>
     </driver>
-    <driver id="sqlite.xerial">
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
-    <driver id="sybase.ase">
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.1.1" />
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
     </driver>
-    <driver id="redshift">
+    <driver id="redshift" name="">
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="db2">
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
       <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
     </driver>
-    <driver id="sqlserver.ms">
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="java.sql.Driver" name="NetSuite" dialect="TSQL" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="true" />
       <library>
         <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
       </library>
     </driver>
-    <driver id="db2.jtopen">
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
     </driver>
-    <driver id="mysql">
+    <driver id="mysql" name="MySQL" dialect="MySQL">
       <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <property name="autoReconnect" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
     </driver>
     <driver id="126d8563-5140-4d53-b2d2-a96b8dbdb4e7" name="OpenEdge" dialect="DB2" driver-class="com.ddtek.jdbc.openedge.OpenEdgeDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="true" />
       <library>
         <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
       </library>
     </driver>
-    <driver id="hsqldb.remote">
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <artifact name="HSQLDB" use="true">
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
