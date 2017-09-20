@@ -3515,6 +3515,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.14.0/features" />
       </SOURCES>
     </library>
+    <library name="gli (v2.16.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gli-2.16.1/features" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.6, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/globalid-0.3.6/lib" />
@@ -3687,6 +3700,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.6, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.5.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.5.6/lib" />
       </SOURCES>
     </library>
     <library name="highline (v1.7.8, RVM: ruby-2.3.1) [gem]">
@@ -7908,6 +7930,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.7.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.7.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.7.5/screenshots" />
+      </SOURCES>
+    </library>
+    <library name="slack-ruby-client (v0.9.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/screenshots" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/slack-ruby-client-0.9.1/screenshots" />
       </SOURCES>
     </library>
     <library name="slackistrano (v0.1.12, RVM: ruby-2.3.1) [gem]">
