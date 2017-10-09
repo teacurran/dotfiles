@@ -1926,6 +1926,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-920fcca7220e/config" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@987566, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/config" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@b3bec4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-b3bec4444975/app" />
@@ -4515,6 +4534,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/less-rails-2.8.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="less-rails (v3.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/less-rails-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/less-rails-3.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/less-rails-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/less-rails-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="letter_opener (v1.4.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/letter_opener-1.4.1/lib" />
@@ -6925,6 +6955,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.3/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.3/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v4.0.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-4.0.1/benchmarking" />
       </SOURCES>
     </library>
     <library name="ref (v2.0.0, RVM: ruby-2.3.1) [gem]">
