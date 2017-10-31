@@ -1663,6 +1663,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-373dac6eea3a/config" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@4236a4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4236a4e0b35e/config" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@4baf8e, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4baf8ec98908/db" />
