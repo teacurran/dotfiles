@@ -9934,6 +9934,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/roo-1.12.2/website" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.4.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rspec-3.4.0/lib" />
@@ -10782,6 +10793,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyzip-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyzip-1.2.1/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1 [global] (1)) [gem]">
