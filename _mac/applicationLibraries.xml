@@ -1777,6 +1777,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-730bcf72937b/config" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@895e5e, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-895e5e2042f0/config" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@89aacb, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-89aacbb37901/db" />
@@ -6762,6 +6781,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-0.1.4/bench" />
       </SOURCES>
     </library>
+    <library name="mini_mime (v1.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_mime-1.0.0/bench" />
+      </SOURCES>
+    </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile-0.6.2/lib" />
@@ -8447,6 +8479,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/public_suffix-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/public_suffix-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.1/data" />
       </SOURCES>
     </library>
     <library name="puma (v3.10.0, RVM: ruby-2.3.1) [gem]">
