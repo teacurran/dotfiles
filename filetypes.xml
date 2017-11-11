@@ -2,11 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
