@@ -2138,6 +2138,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-e66a3300c6e5/config" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@f33e2c, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/config" />
+      </SOURCES>
+    </library>
     <library name="better_errors (v2.1.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/better_errors-2.1.1/lib" />
@@ -10217,6 +10236,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.13.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.13.3/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.13.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="rollbar (v2.15.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rollbar-2.15.5/gemfiles" />
       </SOURCES>
     </library>
     <library name="rollbar (v2.15.5, RVM: ruby-2.3.4) [gem]">
