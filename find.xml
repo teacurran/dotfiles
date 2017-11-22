@@ -29,11 +29,11 @@
       <mask>*.ha</mask>
       <mask>*.ham</mask>
       <mask>*.haml</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
