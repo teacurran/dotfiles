@@ -8894,6 +8894,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parallel-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parallel-1.12.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parallel-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.1.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.1.2/bin" />
@@ -8958,6 +8967,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parser-2.4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.1) [gem]">
@@ -10159,6 +10179,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.2, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.1 [global] (1)) [gem]">
@@ -11616,6 +11647,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.51.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.51.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubocop-0.51.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.6.1.beta4/bin" />
@@ -11761,6 +11807,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-saml (v1.2.0, RVM: ruby-2.3.1) [gem]">
@@ -14241,6 +14296,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicode-display_width-1.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicode-display_width-1.3.0/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.9.0, RVM: ruby-2.3.1) [gem]">
