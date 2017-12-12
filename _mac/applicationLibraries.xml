@@ -11731,6 +11731,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.3.16/performance" />
       </SOURCES>
     </library>
+    <library name="ruby-kafka (v0.4.4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/performance" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-kafka-0.4.4/performance" />
+      </SOURCES>
+    </library>
     <library name="ruby-ole (v1.2.12, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-ole-1.2.12/bin" />
