@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>.sc</mask>
@@ -27,13 +28,13 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
