@@ -2481,6 +2481,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.1.0/ext" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.1" />
