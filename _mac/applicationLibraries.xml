@@ -934,6 +934,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/byebug-8.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@62d488, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-62d4888f2615/bin" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@7e2320, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-7e2320da872a/app" />
@@ -2776,6 +2795,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.3.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.1) [gem]">
