@@ -1,5 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
@@ -7,6 +11,7 @@
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" version="12.1.0.2" />
@@ -24,6 +29,15 @@
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
         </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
       </artifact>
       <option name="auto-sync" value="true" />
     </driver>
@@ -32,13 +46,19 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
         </library>
@@ -59,8 +79,26 @@
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
         </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
       </artifact>
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derbyclient-10.10.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
+      </library>
       <library>
         <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
       </library>
@@ -95,10 +133,14 @@
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="java.sql.Driver" name="NetSuite" dialect="TSQL" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
+      </library>
       <library>
         <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
       </library>
@@ -118,9 +160,18 @@
       <library>
         <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
       </library>
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
         </library>
