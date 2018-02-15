@@ -14,9 +14,13 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <artifact name="Oracle" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/kafka-punches-to-kronos-publisher/lib/ojdbc6.jar</url>
+      </library>
     </driver>
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true">
@@ -44,6 +48,15 @@
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="25a60f11-8c34-4d9f-9dae-18c068028bf7" name="Kronos" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver">
+      <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:identifier:XE}" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/kafka-punches-to-kronos-publisher/lib/ojdbc6_g.jar</url>
+      </library>
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
