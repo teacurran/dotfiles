@@ -1312,6 +1312,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/bigdecimal-1.3.2/sample" />
       </SOURCES>
     </library>
+    <library name="bindex (v0.5.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bindex-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bindex-0.5.0/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bindex-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bindex-0.5.0/ext" />
+      </SOURCES>
+    </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bindex-0.5.0/ext" />
@@ -4809,6 +4820,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.6.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.7.0, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jbuilder-2.7.0/lib" />
@@ -6476,6 +6498,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/nio4r-1.2.1/ext" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.0.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.1.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.1.0/tasks" />
@@ -7338,6 +7373,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/public_suffix-2.0.4/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/public_suffix-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v2.0.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.5/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
     <library name="public_suffix (v3.0.1, RVM: ruby-2.3.1) [gem]">
@@ -8222,6 +8268,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.8, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.8/lib" />
       </SOURCES>
     </library>
     <library name="rb-readline (v0.5.4, RVM: ruby-2.3.1) [gem]">
@@ -9878,6 +9933,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/selectize-rails-0.12.4.1/vendor" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.4.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/selenium-webdriver-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/selenium-webdriver-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="selenium-webdriver (v3.7.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/selenium-webdriver-3.7.0/lib" />
@@ -10441,6 +10505,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/spring-commands-rspec-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/spring-watcher-listen-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/spring-watcher-listen-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/spring-watcher-listen-2.0.1/lib" />
@@ -10742,6 +10815,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/thor-0.19.1/bin" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.4/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.4/bin" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.20.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.20.0/lib" />
@@ -10831,6 +10915,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.8, RVM: ruby-2.3.1) [gem]">
