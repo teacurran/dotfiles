@@ -11974,6 +11974,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-1.0.3/app" />
       </SOURCES>
     </library>
+    <library name="react_on_rails (v10.0.2, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/react_on_rails-10.0.2/script" />
+      </SOURCES>
+    </library>
     <library name="recurrence (v1.3.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/recurrence-1.3.0/lib" />
