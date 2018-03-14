@@ -3,37 +3,16 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>.sc</mask>
-      <mask>.s</mask>
-      <mask>.r</mask>
-      <mask>.rb</mask>
-      <mask>(</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.js</mask>
-      <mask>.jsx</mask>
-      <mask>*.g</mask>
-      <mask>*.go</mask>
-      <mask>*.js\</mask>
-      <mask>*</mask>
-      <mask>*.jsk</mask>
-      <mask>*.jsx</mask>
-      <mask>*.h</mask>
-      <mask>*.ha</mask>
-      <mask>*.ham</mask>
-      <mask>*.haml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.rb" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
