@@ -234,6 +234,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_model_serializers-0.9.7/lib" />
       </SOURCES>
     </library>
+    <library name="active_record_upsert (v0.7.4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.7.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.7.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.10, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.10/lib" />
@@ -5059,6 +5068,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19-x86_64-darwin-16/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19-x86_64-darwin-16/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19-x86_64-darwin-16/ext" />
+      </SOURCES>
+    </library>
+    <library name="libv8-3.16.14.19-x86_64-darwin (v3.16.14.19, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/libv8-3.16.14.19-x86_64-darwin-17/vendor" />
       </SOURCES>
     </library>
     <library name="listen (v3.0.8, RVM: ruby-2.3.4) [gem]">
