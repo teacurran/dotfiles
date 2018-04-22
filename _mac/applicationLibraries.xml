@@ -3713,6 +3713,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.6/bin" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.1.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@368ea4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/lib" />
@@ -5679,6 +5694,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.1/config" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.4.3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise_saml_authenticatable (v1.2.2, RVM: ruby-2.3.1) [gem]">
@@ -8835,6 +8869,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.9.0, RVM: ruby-2.3.5) [gem]">
