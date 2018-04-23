@@ -1704,6 +1704,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-a0e04fccff5f/lib" />
       </SOURCES>
     </library>
+    <library name="aliso (v0.0.1@adf6b4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-adf6b49bd92f/bin" />
+      </SOURCES>
+    </library>
     <library name="aliso (v0.0.1@d4cdf4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-d4cdf4e4119b/bin" />
@@ -2381,6 +2400,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-1fef9c5136d0/client" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@23b00a, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-23b00a3e5e85/bin" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@2446a1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-2446a1488e0a/bin" />
@@ -2552,6 +2590,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4baf8ec98908/config" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@4bc887, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/bin" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@4e401f, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-4e401fd33270/client" />
@@ -2607,6 +2664,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-5817657b8c7c/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-5817657b8c7c/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-5817657b8c7c/lib" />
+      </SOURCES>
+    </library>
+    <library name="beacons (v0.0.1@5c836c, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/bin" />
       </SOURCES>
     </library>
     <library name="beacons (v0.0.1@5e9c4b, RVM: ruby-2.3.4) [gem]">
@@ -2989,6 +3065,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-cf97cb37c6b4/lib" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@d4cf56, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d4cf56ed5209/bin" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@d50207, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-d502074d4689/config" />
@@ -3082,6 +3177,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-e66a3300c6e5/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-e66a3300c6e5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-e66a3300c6e5/app" />
+      </SOURCES>
+    </library>
+    <library name="beacons (v0.0.1@f08651, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f08651842fd3/lib" />
       </SOURCES>
     </library>
     <library name="beacons (v0.0.1@f33e2c, RVM: ruby-2.3.1) [gem]">
@@ -3728,6 +3842,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@2e293e, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-2e293e0943ba/config" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@368ea4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/lib" />
@@ -3745,6 +3878,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/client" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/orb" />
+      </SOURCES>
+    </library>
+    <library name="calafia (v0.0.1@5af53c, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-5af53cf1d4ec/app" />
       </SOURCES>
     </library>
     <library name="calafia (v0.0.1@87c755, RVM: ruby-2.3.1) [gem]">
@@ -3842,6 +3994,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-920fcca7220e/lib" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@939048, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-9390486baa6d/bin" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@987566, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/lib" />
@@ -3859,6 +4030,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-987566879448/client" />
+      </SOURCES>
+    </library>
+    <library name="calafia (v0.0.1@b1558c, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b1558c9b741d/lib" />
       </SOURCES>
     </library>
     <library name="calafia (v0.0.1@b373a1, RVM: ruby-2.3.1) [gem]">
@@ -3956,6 +4146,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-c2de8a8a4b20/bin" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@d5c5ab, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-d5c5ab155637/bin" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@ed2410, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-ed24101d38eb/lib" />
@@ -3973,6 +4182,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-ed24101d38eb/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-ed24101d38eb/orb" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-ed24101d38eb/client" />
+      </SOURCES>
+    </library>
+    <library name="calafia (v0.0.1@fd0882, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-fd088245853c/lib" />
+      </SOURCES>
+    </library>
+    <library name="calafia (v0.0.1@ff72f0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-ff72f0365ba4/app" />
       </SOURCES>
     </library>
     <library name="callsite (v0.0.11, RVM: ruby-2.3.1) [gem]">
@@ -6009,6 +6256,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20170404/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20170404/tool" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20170404/lib" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/data" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.1.1, RVM: ruby-2.3.1) [gem]">
