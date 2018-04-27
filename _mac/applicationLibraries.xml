@@ -279,6 +279,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.7.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_record_upsert (v0.8.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.10, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.10/lib" />
@@ -854,6 +863,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-5a5b6a65574b/lib" />
       </SOURCES>
     </library>
+    <library name="aliso (v0.0.1@9bcfe1, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-9bcfe17c1c19/bin" />
+      </SOURCES>
+    </library>
     <library name="aliso (v0.0.1@9de41b, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-9de41b6a5148/config" />
@@ -1339,6 +1367,25 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="beacons (v0.0.1@0675d4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-0675d43f695b/lib" />
       </SOURCES>
     </library>
     <library name="beacons (v0.0.1@23b00a, RVM: ruby-2.3.4) [gem]">
@@ -5328,6 +5375,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jquery-rails-4.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.3.3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/jquery-rails-4.3.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json/add" />
@@ -8052,6 +8110,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/quiet_assets-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/contrib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/contrib" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.8, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-1.6.8/example" />
@@ -10097,6 +10170,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/rubyXL-3.3.22/rdoc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/rubyXL-3.3.22/tmp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/rubyXL-3.3.22/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyXL (v3.3.29, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/tmp" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/tmp" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.0, RVM: ruby-2.3.5) [gem]">
