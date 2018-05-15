@@ -9,6 +9,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="rdf" type="XML" />
     </extensionMap>
   </component>
