@@ -504,6 +504,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.7.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_record_upsert (v0.8.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.10, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.10/lib" />
@@ -1786,6 +1795,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="annotate (v2.7.3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/annotate-2.7.3/lib" />
       </SOURCES>
     </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.3.1) [gem]">
@@ -14044,6 +14064,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubyXL-3.3.26/rdoc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubyXL-3.3.26/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubyXL-3.3.26/tmp" />
+      </SOURCES>
+    </library>
+    <library name="rubyXL (v3.3.29, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/tmp" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rubyXL-3.3.29/tmp" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.0.0, RVM: ruby-2.3.1) [gem]">
