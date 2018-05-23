@@ -7910,6 +7910,7 @@
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/tests" />
@@ -7920,6 +7921,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/json-1.8.3/tests" />
