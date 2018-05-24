@@ -8613,15 +8613,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/meta_request-0.3.4/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.8.1, RVM: ruby-2.3.5) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/method_source-0.9.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/method_source-0.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/method_source-0.8.2/lib" />
