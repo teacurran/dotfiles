@@ -1237,6 +1237,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/awesome_print-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.60, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-2.11.60/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-2.11.60/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.5.11, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/aws-sdk-2.5.11/lib" />
@@ -1262,6 +1271,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/aws-sdk-2.5.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.60, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/apis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/apis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-core-2.11.60/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.5.11, RVM: ruby-2.3.1) [gem]">
@@ -1301,6 +1323,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/aws-sdk-core-2.5.11/apis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/aws-sdk-core-2.5.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/aws-sdk-core-2.5.11/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.60, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-resources-2.11.60/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-resources-2.11.60/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.5.11, RVM: ruby-2.3.1) [gem]">
@@ -1354,6 +1385,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-v1-1.67.0/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-v1-1.67.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sdk-v1-1.67.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.2, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sigv4-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1) [gem]">
