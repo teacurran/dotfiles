@@ -2265,6 +2265,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="calafia (v0.0.1@1bc2f3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/client" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-1bc2f3dc267c/client" />
+      </SOURCES>
+    </library>
     <library name="calafia (v0.0.1@2e293e, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-2e293e0943ba/config" />
