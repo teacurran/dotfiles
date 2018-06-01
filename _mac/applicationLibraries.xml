@@ -9769,6 +9769,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.15.6/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.16.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, RVM: ruby-2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/rspec-3.5.0/lib" />
