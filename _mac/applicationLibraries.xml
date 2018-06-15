@@ -7863,6 +7863,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/oj-2.17.1/ext" />
       </SOURCES>
     </library>
+    <library name="onelogin (v1.1.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/onelogin-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/onelogin-1.1.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/onelogin-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/onelogin-1.1.0/bin" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/orm_adapter-0.5.0/gemfiles" />
