@@ -1591,6 +1591,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4bc8874cebae/bin" />
       </SOURCES>
     </library>
+    <library name="beacons (v0.0.1@4d843b, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-4d843bf197ca/app" />
+      </SOURCES>
+    </library>
     <library name="beacons (v0.0.1@5c836c, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-5c836c7892fa/db" />
