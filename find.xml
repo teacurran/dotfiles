@@ -14,8 +14,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>*.js</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
