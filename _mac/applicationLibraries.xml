@@ -1014,6 +1014,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/analytics-ruby-2.0.13/lib" />
       </SOURCES>
     </library>
+    <library name="analytics-ruby (v2.2.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/analytics-ruby-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="anbt-sql-formatter (v0.0.6, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/anbt-sql-formatter-0.0.6/bin" />
@@ -3329,6 +3340,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/colorize-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="commander (v4.4.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/commander-4.4.3/lib" />
       </SOURCES>
     </library>
     <library name="commonjs (v0.2.7, RVM: ruby-2.3.1) [gem]">
