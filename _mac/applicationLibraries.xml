@@ -2415,6 +2415,43 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/aliso-88c42672771f/config" />
       </excluded>
     </library>
+    <library name="aliso (v0.0.1@930614, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/aliso-930614547d58/.circleci" />
+      </excluded>
+    </library>
     <library name="aliso (v0.0.1@98e038, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -5125,6 +5162,43 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-cf97cb37c6b4/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-cf97cb37c6b4/client" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-cf97cb37c6b4/config" />
+      </excluded>
+    </library>
+    <library name="beacons (v0.0.1@d1b12c, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-d1b12cd858e1/.circleci" />
       </excluded>
     </library>
     <library name="beacons (v0.0.1@d50207, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -21743,6 +21817,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.1/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.1/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.1/benchmarking" />
+      </excluded>
+    </library>
+    <library name="redis (v4.0.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/benchmarking" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/benchmarking" />
       </excluded>
     </library>
     <library name="ref (v2.0.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
