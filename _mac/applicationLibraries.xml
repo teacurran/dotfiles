@@ -5698,6 +5698,43 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/beacons-f33e2c7bdda7/config" />
       </excluded>
     </library>
+    <library name="beacons (v0.0.1@f6c95e, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/beacons-f6c95eec80c0/.circleci" />
+      </excluded>
+    </library>
     <library name="beacons (v0.0.1@faeff6, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6818,6 +6855,46 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/client" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-368ea4094c42/config" />
+      </excluded>
+    </library>
+    <library name="calafia (v0.0.1@4825d5, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-4825d5441c90/.circleci" />
       </excluded>
     </library>
     <library name="calafia (v0.0.1@87c755, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -15123,6 +15200,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.7.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/mail-2.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/mail-2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mechanize (v2.7.5, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17804,6 +17893,40 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.4/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.4/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.4/suppressions" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.5, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.8.5/suppressions" />
       </excluded>
     </library>
     <library name="nokogumbo (v1.4.7, RVM: ruby-2.3.1) [gem]" type="rubylib">
