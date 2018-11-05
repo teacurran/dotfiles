@@ -13793,6 +13793,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/i18n-0.9.1/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/i18n-0.9.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -22714,6 +22734,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.16.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="rollbar (v2.17.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.17.0/gemfiles" />
       </excluded>
     </library>
     <library name="roo (v1.12.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
