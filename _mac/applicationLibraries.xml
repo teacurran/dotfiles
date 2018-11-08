@@ -7282,6 +7282,46 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/calafia-b51d9390ad01/config" />
       </excluded>
     </library>
+    <library name="calafia (v0.0.1@b7e991, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/calafia-b7e991547a6f/.circleci" />
+      </excluded>
+    </library>
     <library name="calafia (v0.0.1@be5f45, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9132,6 +9172,23 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.1.3, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/concurrent-ruby-1.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/concurrent-ruby-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/concurrent-ruby-1.1.3/ext" />
+      </excluded>
     </library>
     <library name="connection_pool (v2.2.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
@@ -14623,6 +14680,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-3.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="less-rails (v4.0.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/less-rails-4.0.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="letter_opener (v1.4.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -15105,6 +15182,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.2/benchmark" />
+      </excluded>
+    </library>
+    <library name="loofah (v2.2.3, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/loofah-2.2.3/benchmark" />
       </excluded>
     </library>
     <library name="lumberjack (v1.0.10, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -19732,6 +19829,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.10/example" />
       </excluded>
     </library>
+    <library name="rack (v1.6.11, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-1.6.11/example" />
+      </excluded>
+    </library>
     <library name="rack (v1.6.4, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -22328,6 +22451,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.2/benchmarking" />
+      </excluded>
+    </library>
+    <library name="redis (v4.0.3, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/benchmarking" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/redis-4.0.3/benchmarking" />
       </excluded>
     </library>
     <library name="ref (v2.0.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
