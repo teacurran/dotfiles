@@ -10075,6 +10075,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.3/recipes" />
       </excluded>
     </library>
+    <library name="delayed_job (v4.1.5, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/recipes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job-4.1.5/recipes" />
+      </excluded>
+    </library>
     <library name="delayed_job_active_record (v4.1.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -10121,6 +10144,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job_active_record-4.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job_active_record (v4.1.3, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job_active_record-4.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/delayed_job_active_record-4.1.3/lib" />
       </SOURCES>
     </library>
     <library name="devise (v4.1.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -11033,6 +11068,23 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/em-hiredis-0.3.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/em-hiredis-0.3.1/examples" />
+      </excluded>
+    </library>
+    <library name="email_address (v0.1.11, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/email_address-0.1.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/email_address-0.1.11/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/email_address-0.1.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/email_address-0.1.11/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/email_address-0.1.11/test" />
       </excluded>
     </library>
     <library name="encryptor (v1.3.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -17130,6 +17182,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@global/gems/net-telnet-0.1.1/bin" />
+      </excluded>
+    </library>
+    <library name="netaddr (v2.0.3, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/netaddr-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/netaddr-2.0.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/netaddr-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/netaddr-2.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/netaddr-2.0.3/test" />
       </excluded>
     </library>
     <library name="netrc (v0.11.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -26456,6 +26525,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simplecov-html-0.10.2/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simplecov-html-0.10.2/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simplecov-html-0.10.2/public" />
+      </excluded>
+    </library>
+    <library name="simpleidn (v0.1.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simpleidn-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simpleidn-0.1.1/tables" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simpleidn-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simpleidn-0.1.1/tables" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/simpleidn-0.1.1/tables" />
       </excluded>
     </library>
     <library name="sixarm_ruby_unaccent (v1.1.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
