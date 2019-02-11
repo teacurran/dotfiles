@@ -21271,43 +21271,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.7 (montauk) interpreter library">
+    <library name="Python 3.7 (kbs) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/2009124859" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.virtualenvs/montauk/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/2009124859" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (stink) interpreter library">
-      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7/lib-dynload" />
         <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-1585582897" />
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1290198574" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -21316,12 +21286,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7/lib-dynload" />
         <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/dev/stink/gcptest/virtualenv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-1585582897" />
+        <root url="file://$USER_HOME$/.virtualenvs/kbs/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1290198574" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
