@@ -16,6 +16,9 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
+  </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
