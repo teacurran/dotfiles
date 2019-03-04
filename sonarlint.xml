@@ -1,14 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.approachingpi.com" />
-          <token>dfcbdf9bdfcedf98dfc9df9cdf93dfc9dfccdfcbdfccdf9fdf92df9bdfc9dfcfdf9edf9edf9adf9fdfcfdf9edf9edfcbdfcbdfccdfcbdfc9df92df99df9bdf9edf98dfc8dfc8df9bdfc8df9bdfcbdfcf</token>
-          <option name="name" value="APPI" />
-        </SonarQubeServer>
-      </list>
-    </option>
   </component>
 </application>
