@@ -27820,6 +27820,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scenic-1.4.0/gemfiles" />
       </excluded>
     </library>
+    <library name="scout_apm (v2.4.21, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scout_apm/2.4.21" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scout_apm/2.4.21" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/test" />
+      </excluded>
+    </library>
     <library name="sdoc (v0.4.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
