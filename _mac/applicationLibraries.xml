@@ -21578,10 +21578,10 @@
     </library>
     <library name="Python 3.7 (website) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7" />
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7/lib-dynload" />
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-2045022878" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -21591,10 +21591,10 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7" />
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7/lib-dynload" />
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/website/env/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/dev/stink/google/stonewall-forever-2019/services/admin-server/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-2045022878" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
