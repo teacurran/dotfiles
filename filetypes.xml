@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="cloud_sql_proxy" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="rdf" type="XML" />
     </extensionMap>
   </component>
