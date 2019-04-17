@@ -7340,6 +7340,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.3.7/templates" />
       </excluded>
     </library>
+    <library name="bootstrap-sass (v3.4.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bootstrap-sass-3.4.1/templates" />
+      </excluded>
+    </library>
     <library name="bourbon (v4.2.7, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12296,6 +12322,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.4.3/gemfiles" />
+      </excluded>
+    </library>
+    <library name="devise (v4.6.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/devise-4.6.2/config" />
       </excluded>
     </library>
     <library name="devise_saml_authenticatable (v1.2.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -30360,6 +30405,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
+    </library>
+    <library name="sassc (v2.0.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sassc/2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sassc/2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/test" />
+      </excluded>
     </library>
     <library name="savon (v2.11.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
