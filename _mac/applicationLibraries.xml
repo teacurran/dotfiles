@@ -9626,6 +9626,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/capistrano-rbenv-2.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rbenv (v2.1.4@b8807f, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rbenv-b8807f3bbb3f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rbenv-b8807f3bbb3f/.git" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rbenv-b8807f3bbb3f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rbenv-b8807f3bbb3f/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rbenv-b8807f3bbb3f/.git" />
+      </excluded>
+    </library>
     <library name="capistrano-rbenv-install (v1.2.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -24356,6 +24373,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rack-cors-1.0.3/test" />
       </excluded>
     </library>
+    <library name="rack-pjax (v0.8.0@c776a9, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/rack-pjax-c776a9a9eaa0/spec" />
+      </excluded>
+    </library>
     <library name="rack-protection (v2.0.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26948,6 +26985,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/regexp_parser-1.4.0/test" />
+      </excluded>
+    </library>
+    <library name="remotipart (v1.4.2@e08ea9, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/remotipart-e08ea9a3aa8d/gemfiles" />
       </excluded>
     </library>
     <library name="request_store (v1.3.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
