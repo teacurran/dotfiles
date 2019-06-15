@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="false" />
+    <option name="myShellPath" value="/bin/zsh" />
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>
