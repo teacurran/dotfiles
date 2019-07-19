@@ -9,12 +9,68 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="derby.embedded">
-      <artifact name="Apache Derby" use="true" />
+      <artifact name="Apache Derby" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="derby.remote">
-      <artifact name="Apache Derby" use="true" />
+      <artifact name="Apache Derby" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derbyclient-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-10.11.1.1.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/derby-license.txt</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derbyclient-10.10.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derbyclient-10.10.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/derby-10.10.1.1.jar</url>
+      </library>
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -22,13 +78,20 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" />
+      <artifact name="SQL Server" use="true" version="7.2.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -37,23 +100,40 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" />
+    <driver id="mysql.8">
+      <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="mysql">
+      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="mariadb">
       <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" />
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/kafka-punches-to-kronos-publisher/lib/ojdbc6.jar</url>
+      </library>
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" />
+      <artifact name="PostgreSQL" use="true" version="42.2.2" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
@@ -61,11 +141,37 @@
       <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true" />
+      <artifact name="HSQLDB" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" />
+      <artifact name="HSQLDB" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
@@ -87,6 +193,48 @@
     <driver id="cassandra">
       <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="vertica">
+      <artifact name="Vertica" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive">
+      <artifact name="Hive" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="25a60f11-8c34-4d9f-9dae-18c068028bf7" name="Kronos" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver">
+      <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:identifier:XE}" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/kafka-punches-to-kronos-publisher/lib/ojdbc6_g.jar</url>
+      </library>
+    </driver>
+    <driver id="java.sql.Driver" name="NetSuite" dialect="TSQL" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
+      </library>
+    </driver>
+    <driver id="126d8563-5140-4d53-b2d2-a96b8dbdb4e7" name="OpenEdge" dialect="DB2" driver-class="com.ddtek.jdbc.openedge.OpenEdgeDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/dev/Surge/kbs/code/dije/lib/openedge.jar</url>
+      </library>
     </driver>
     <driver id="com.netsuite.jdbc.openaccess.OpenAccessDriver" name="com.netsuite.jdbc.openaccess.OpenAccessDriver" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver" />
     <driver id="com.ddtek.jdbc.openedge.OpenEdgeDriver" name="com.ddtek.jdbc.openedge.OpenEdgeDriver" driver-class="com.ddtek.jdbc.openedge.OpenEdgeDriver" />
