@@ -24208,6 +24208,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql-1.0.0/bin" />
       </excluded>
     </library>
+    <library name="postgresql_cursor (v0.6.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test-app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test-app" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/postgresql_cursor-0.6.2/test-app" />
+      </excluded>
+    </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
