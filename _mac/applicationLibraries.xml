@@ -13548,6 +13548,11 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/quiet_assets-1.1.0/test" />
       </excluded>
     </library>
+    <library name="R Skeletons">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rack (v1.5.5, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
