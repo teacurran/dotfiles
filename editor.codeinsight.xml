@@ -1,18 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SMART_BACKSPACE" value="0" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="SMART_END_ACTION" value="false" />
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
-    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-  </component>
   <component name="Go">
     <option name="formatOnSave" value="GOFMT" />
   </component>

@@ -1,4 +1,18 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SMART_BACKSPACE" value="0" />
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="SMART_END_ACTION" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+  </component>
   <component name="EditorSettings">
     <option name="SMART_HOME" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
@@ -15,10 +29,6 @@
       <item index="6" class="java.lang.String" itemvalue="WARNING" />
       <item index="7" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="XmlEditorOptions">
     <option name="automaticallyInsertClosingTag" value="false" />
