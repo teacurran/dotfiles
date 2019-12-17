@@ -13165,6 +13165,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.12.2/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.13.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.13.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.13.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.13.0/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.8.5, RVM: ruby-2.3.4 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
