@@ -230,11 +230,12 @@
     <driver id="java.sql.Driver" name="NetSuite" dialect="TSQL" driver-class="com.netsuite.jdbc.openaccess.OpenAccessDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
-      </library>
-      <library>
-        <url>file://$USER_HOME$/dev/Surge/kbs/code/avalon/lib/NQjc.jar</url>
+        <url>file://$USER_HOME$/.ivy2/cache/netsuite/netsuite-jdbc/jars/netsuite-jdbc-8.10.85.jar</url>
       </library>
     </driver>
     <driver id="126d8563-5140-4d53-b2d2-a96b8dbdb4e7" name="OpenEdge" dialect="DB2" driver-class="com.ddtek.jdbc.openedge.OpenEdgeDriver">
