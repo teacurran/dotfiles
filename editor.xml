@@ -7,6 +7,7 @@
     <option name="SMART_BACKSPACE" value="0" />
     <option name="SMART_INDENT_ON_ENTER" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="INSERT_SCRIPTLET_END_ON_ENTER" value="false" />
     <option name="SMART_END_ACTION" value="false" />
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
@@ -28,6 +29,10 @@
       <item index="6" class="java.lang.String" itemvalue="WARNING" />
       <item index="7" class="java.lang.String" itemvalue="ERROR" />
     </list>
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="closeBlocksOnEnter" value="false" />
+    <option name="concatenateStringsOnEnter" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="automaticallyInsertClosingTag" value="false" />
