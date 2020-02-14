@@ -7589,6 +7589,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/capistrano3-puma-3.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano3-puma (v4.0.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/capistrano3-puma-4.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/capistrano3-puma-4.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.14.4, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16650,6 +16662,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-3.9.1/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-3.9.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-3.9.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="puma (v4.3.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/puma/4.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/puma/4.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.1/tools" />
       </excluded>
     </library>
     <library name="Python 2.7 (stonewall-python2) interpreter library">
