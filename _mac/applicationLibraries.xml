@@ -478,6 +478,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/active_record_upsert-0.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_record_upsert (v0.9.5@2c6787, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/active_record_upsert-2c67878034c9/spec" />
+      </excluded>
+    </library>
     <library name="activejob (v4.2.10, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
