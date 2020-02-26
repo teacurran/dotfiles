@@ -6137,6 +6137,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta19/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta27, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debase-0.3.0.beta27/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15755,6 +15775,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta19/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta21, RVM: ruby-2.3.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ruby-debug-ide-0.8.0.beta21/ext" />
       </excluded>
     </library>
     <library name="ruby-kafka (v0.3.16, RVM: ruby-2.3.4) [gem]" type="rubylib">
