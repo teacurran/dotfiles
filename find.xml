@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.jsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,6 @@
     <mask>*.yml.j2</mask>
     <mask>*.py</mask>
     <mask>*.rb</mask>
+    <mask>*.js,*.jsx</mask>
   </component>
 </application>
