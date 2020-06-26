@@ -6251,14 +6251,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/bcrypt-3.1.12/spec" />
@@ -6273,14 +6271,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/spec" />
@@ -6317,14 +6313,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/spec" />
@@ -6569,7 +6563,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/test" />
@@ -6577,7 +6570,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.2/test" />
@@ -6619,7 +6611,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/test" />
@@ -6627,7 +6618,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/binding_of_caller-0.7.3/test" />
@@ -7288,14 +7278,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-8.2.5/lib" />
@@ -7310,14 +7298,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-8.2.5/lib" />
@@ -7332,14 +7318,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/byebug/9.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/byebug/9.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/byebug-9.0.4/lib" />
@@ -8789,13 +8773,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -8830,14 +8812,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debug_inspector-0.0.3/test" />
@@ -10224,14 +10204,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ffi-1.12.2/samples" />
@@ -10286,7 +10264,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/.github" />
@@ -10294,7 +10271,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.13.1/.github" />
@@ -11836,7 +11812,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/data" />
@@ -11847,7 +11822,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/json-1.8.6/data" />
@@ -11870,7 +11844,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/data" />
@@ -11881,7 +11854,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-1.8.6/data" />
@@ -13343,7 +13315,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/spec" />
@@ -13352,7 +13323,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/msgpack-1.3.1/spec" />
@@ -13990,7 +13960,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/lib" />
@@ -13998,7 +13967,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/nokogiri-1.10.8/lib" />
@@ -14926,7 +14894,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/puma/4.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/lib" />
@@ -14935,7 +14902,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/puma/4.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/puma-4.3.3/lib" />
@@ -14954,7 +14920,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/puma/4.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/lib" />
@@ -14963,7 +14928,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/puma/4.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/puma-4.3.3/lib" />
@@ -15938,14 +15902,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rb-fsevent-0.10.3/lib" />
@@ -18045,14 +18007,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/sassc-2.0.1/test" />
@@ -18067,14 +18027,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/test" />
@@ -18089,14 +18047,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.4.0/test" />
@@ -18248,7 +18204,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/scout_apm/2.4.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/data" />
@@ -18256,7 +18211,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/scout_apm/2.4.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/scout_apm-2.4.21/data" />
@@ -20382,14 +20336,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/zstd-ruby/1.4.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23/zstd-ruby/1.4.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/zstd-ruby-1.4.4.0/lib" />
@@ -20404,14 +20356,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/zstd-ruby/1.4.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/zstd-ruby/1.4.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/zstd-ruby-1.4.4.0/lib" />
