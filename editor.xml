@@ -21,6 +21,15 @@
     <option name="SMART_HOME" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="InspectionProfileManager">
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
