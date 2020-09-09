@@ -1,11 +1,7 @@
 <application>
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings StylesheetUri="jar:file:/Users/tea/Library/Application%20Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/171.4073.35/IntelliJ%20IDEA.app/Contents/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
-    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only">
-      <HtmlPanelProviderInfo>
-        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
-      </HtmlPanelProviderInfo>
-    </MarkdownPreviewSettings>
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
   </component>
   <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
 </application>

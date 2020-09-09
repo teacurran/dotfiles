@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="composer.lock" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping pattern="phpunit.xml.dist" type="XML" />
     </extensionMap>
   </component>
 </application>
