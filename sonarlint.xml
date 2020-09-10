@@ -10,5 +10,8 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="typescript:S3317" />
+    </rules>
   </component>
 </application>
