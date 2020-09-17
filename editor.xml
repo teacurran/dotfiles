@@ -18,6 +18,7 @@
     <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SMART_HOME" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
