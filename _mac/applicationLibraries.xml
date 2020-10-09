@@ -1405,6 +1405,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/attr_encrypted-3.1.0/checksum" />
       </excluded>
     </library>
+    <library name="audited (v4.9.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/audited-4.9.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="autoprefixer-rails (v9.7.4, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9143,6 +9166,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.4.1/spec" />
       </excluded>
     </library>
+    <library name="digest-crc (v0.6.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/digest-crc/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/digest-crc/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/digest-crc-0.6.0/spec" />
+      </excluded>
+    </library>
     <library name="digest-crc (v0.6.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9895,6 +9939,23 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-1.9.3/lib" />
       </SOURCES>
+    </library>
+    <library name="faker (v2.13.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-2.13.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-2.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-2.13.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-2.13.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faker-2.13.0/bin" />
+      </excluded>
     </library>
     <library name="faker-medical (v0.5.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
@@ -11134,6 +11195,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-1.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.8.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-1.8.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-1.8.5/lib" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11483,6 +11556,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/references" />
+      </excluded>
+    </library>
+    <library name="json-schema (v2.8.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-schema-2.8.1/resources" />
       </excluded>
     </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.3.4) [gem]" type="rubylib">
@@ -16643,6 +16733,44 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/rss/dublincore" />
       </excluded>
     </library>
+    <library name="rswag-api (v2.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-api-2.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-api-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-specs (v2.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-specs-2.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-specs-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-ui (v2.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-ui-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-ui-2.3.1/node_modules" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-ui-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rswag-ui-2.3.1/node_modules" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.68.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16796,6 +16924,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-0.7.10/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-0.7.10/.circleci" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-0.7.10/benchmarks" />
+      </excluded>
+    </library>
+    <library name="ruby-kafka (v1.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-kafka-1.1.0/benchmarks" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
