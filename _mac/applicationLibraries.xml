@@ -7602,6 +7602,46 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-f2c61e18e879/.circleci" />
       </excluded>
     </library>
+    <library name="calafia (v0.0.1@fde56d, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/orb" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/calafia-fde56d0a0f17/.circleci" />
+      </excluded>
+    </library>
     <library name="callsite (v0.0.11, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10716,6 +10756,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/yard" />
+      </excluded>
+    </library>
+    <library name="haml (v5.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/yard" />
       </excluded>
     </library>
     <library name="haml-rails (v1.0.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
