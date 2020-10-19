@@ -6389,14 +6389,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.12/spec" />
@@ -6433,14 +6431,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.13/spec" />
@@ -17648,14 +17644,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/sassc/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sassc-2.0.1/test" />
