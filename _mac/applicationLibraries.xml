@@ -9217,6 +9217,43 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-a1dc4879b998/.circleci" />
       </excluded>
     </library>
+    <library name="beacons (v0.0.1@e23400, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/client" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/beacons-e23400dc6c4e/.circleci" />
+      </excluded>
+    </library>
     <library name="better_errors (v2.1.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12014,6 +12051,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.5.0/rails" />
       </excluded>
     </library>
+    <library name="devise_saml_authenticatable (v1.6.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/rails" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_saml_authenticatable-1.6.3/rails" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12788,6 +12847,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/encryptor-3.0.0/certs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/encryptor-3.0.0/checksum" />
       </excluded>
+    </library>
+    <library name="erubi (v1.10.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.10.0/lib" />
+      </SOURCES>
     </library>
     <library name="erubi (v1.10.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
@@ -14368,6 +14439,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.0/yard" />
+      </excluded>
+    </library>
+    <library name="haml (v5.2.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.2.1/yard" />
       </excluded>
     </library>
     <library name="haml-rails (v1.0.0, RVM: ruby-2.3.4) [gem]" type="rubylib">
@@ -16102,6 +16193,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/loofah-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="loofah (v2.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/loofah-2.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/loofah-2.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.8.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16627,6 +16730,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0512/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0512/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2020.1104, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.1104/types" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.4, RVM: ruby-2.3.4) [gem]" type="rubylib">
@@ -24991,6 +25114,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.7/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.9, RVM: ruby-2.6.6) [gem]" type="rubylib">
