@@ -454,7 +454,7 @@
                   </entry>
                   <entry key="WebSphereRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="WebSphere Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
+                      <FeaturePluginData displayName="WebSphere/Liberty Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
                     </value>
                   </entry>
                   <entry key="XSLT">
