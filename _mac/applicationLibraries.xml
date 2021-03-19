@@ -28253,6 +28253,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sprockets-4.0.2/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v4.0.2, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sprockets-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sprockets-4.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sprockets-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sprockets-4.0.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sprockets-4.0.2/bin" />
+      </excluded>
+    </library>
     <library name="sprockets-rails (v3.2.1, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
