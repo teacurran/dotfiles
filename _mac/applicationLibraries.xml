@@ -20183,6 +20183,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.5/script" />
       </excluded>
     </library>
+    <library name="mimemagic (v0.3.8, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/mimemagic-0.3.8/ext" />
+      </excluded>
+    </library>
     <library name="mini_mime (v1.0.2, RVM: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
